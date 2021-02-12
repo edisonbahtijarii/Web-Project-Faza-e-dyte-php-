@@ -15,7 +15,7 @@ const responsive = {
 
 $(document).ready(function() {
 
-    $nav = $('.nav');
+     $nav = $('.nav');
     $toggleCollapse = $('.toggle-collapse');
 
     /** click event on toggle menu */
