@@ -47,9 +47,6 @@
                             <a href="../Rreth nesh/About us.php" class="text-gray"> About us</a>
                         </li>
                         <li class="nav-link">
-                            <a href="../Regjistrohu apo hyr/Apply.php" class="text-gray">Apply for registration</a>
-                        </li>
-                        <li class="nav-link">
                             <a href="../Regjistrohu apo hyr/Sign.php" class="text-gray">Sign in</a>
                         </li>
                     </ul>
